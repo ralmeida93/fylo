@@ -1,0 +1,51 @@
+# Guia de estilo de front-end
+
+## Layout
+
+Os desenhos foram criados para as seguintes larguras:
+
+- Celular: 375px
+- Desktop: 1440px
+
+## Cores
+
+### Primário
+
+- Azul escuro (intro e fundo de inscrição de e-mail): #1c2431;
+- Azul escuro (fundo principal): #181f2a;
+- Azul escuro (fundo do rodapé): #0b1523;
+- Azul escuro (fundo de depoimentos): #202a3c;
+
+### Sotaque
+
+- Ciano (dentro do gradiente de apelo à ação): #65e2d9;
+- Azul (dentro do gradiente de apelo à ação): #339ecc;
+- Vermelho claro (erro): #ff4242;
+
+### Neutro
+
+- Branco: #ffffff;
+
+## Tipografia
+
+### Cópia do corpo
+
+- Tamanho da fonte: 14px
+
+### Títulos, apelos à ação, navegação no cabeçalho
+
+- Família: [Raleway](https://fonts.google.com/specimen/Raleway)
+- Pesos: 400, 700
+
+### Corpo
+
+- Família: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Pesos: 400, 700
+
+## Ícones
+
+Para os ícones sociais, você pode usar uma biblioteca de ícones de fonte. Algumas sugestões podem ser encontradas abaixo:
+
+- [Fonte incrível](https://fontawesome.com/)
+- [IcoMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)
